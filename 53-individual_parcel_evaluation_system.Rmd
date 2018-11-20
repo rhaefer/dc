@@ -1,0 +1,41 @@
+# 53 Individual Parcel Evaluation System {-}
+
+##  53.1  PURPOSE {-}
+
+This chapter establishes the Individual Parcel Evaluation System (IPES) and its related procedures in accordance with Goal 1, Policy 1, of the Development and Implementation Priorities Subelement, Implementation Element, of the Goals and Policies.  IPES provides a methodology for the evaluation of vacant single-family residential parcels, assigning each such parcel a numerical score, and ranking such parcels within each local jurisdiction from most suitable to least suitable for development in accordance with this chapter.
+
+##  53.2 APPLICABILITY {-}
+
+###  53.2.1 IPES Review and Approval of Single-Family Dwellings Required {-}
+TRPA shall review and approve the construction of any single-family dwelling on a parcel that was vacant on or after July 1987 pursuant to this chapter.  
+
+###  53.2.2 IPES Manuals {-}
+The review and approval by TRPA of the construction of single-family dwellings shall be conducted in accordance with the IPES manuals, which are hereby adopted by reference.
+
+##  53.10 Technical Standards and Methodologies {-}
+
+###  53.10.1 Relative Erosion Hazard Formulae {-}
+
+(K)(R)(LS) = x
+
+Where:
+
+__K = Soil Erodibility Factor:__ The soil erodibility factor (K) shall be as shown on the latest edition of the Single Phase Interpretation Sheets prepared by the Soil Conservation Service for the soil series identified in the Tahoe Basin.
+
+__R = Climatic Conditions Factor:__ The climatic condition factor (R) shall be taken from the R Factors Map for the Tahoe Basin, dated _________ and prepared by TRPA.
+
+__LS = Slope Length and Gradient Factor:__ The slope length and gradient factor (LS) shall be derived from the following formula:
+
+
+###  53.10.2 Runoff Potential {-}
+
+```{r, message=F, warning=F,  out.width='150%'}
+knitr::include_graphics("H:/projects/digital_code/digital_code/images/53_IPES/table_53.11.2.1_Runoff_Potential.png")
+```
+
+###  53.10.3 Runoff Potential {-}
+
+```{r, message=F, warning=F,  out.width='150%'}
+knitr::include_graphics("H:/projects/digital_code/digital_code/images/53_IPES/table_53.11.3.2_Factors_for_Gradient_above_cut.png")
+```
+

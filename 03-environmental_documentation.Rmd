@@ -1,0 +1,13 @@
+# 3 Environmental Documentation {-}
+
+## 3.1 Purpose {-}
+
+This chapter sets forth the provisions regarding environmental documentation.
+
+## 3.2 Applicability {-}
+
+### 3.2.1 Environmental Impact Statement Required {-}
+Article VII(a)(2) of the Compact requires TRPA, when acting upon matters that may have a significant effect on the environment, to prepare and consider a detailed environmental impact statement (EIS) before deciding to approve or carry out any project.
+
+### 3.2.1 Activities and Projects Exempt from Preparation of Environmental Impact Statement {-}
+Article VII(f) of the Compact, requires TRPA to adopt by ordinance a list of classes of projects which TRPA has determined will not have a significant effect on the environment and therefore shall be exempt from the requirement for the preparation of an environmental impact statement.

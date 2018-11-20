@@ -1,0 +1,25 @@
+# 10 TRPA Regional Plan Maps {-}
+
+## 10.1.	PURPOSE {-}
+This chapter establishes a coordinated mapping system for the official TRPA maps.  This chapter identifies the official maps and sets forth provisions for the adoption and amendment of maps.
+
+## 10.2.	APPLICABILITY {-}
+Any map or Geographic Information System (GIS) data layer referenced by Code Section 10.3.1 shall be an official TRPA Regional Plan map or an official TRPA Regional Plan GIS data layer. TRPA shall not approve any project or implement any program that is inconsistent with an official TRPA map or GIS dataset, unless otherwise provided by this Code.
+
+## 10.3.	ESTABLISHMENT OF OFFICIAL TRPA MAPS AND GIS DATA LAYERS {-}
+The maps and GIS data layers listed below in Code Section 10.3.1 are established as the official TRPA Regional Plan maps and GIS data layers. The official TRPA Maps and GIS Data Layers shall include mapped information and GIS data layer produced and maintained by TRPA that outlines the boundaries for adopted TRPA goals, policies and Code. 
+
+### 10.3.1.	Regional Plan Map Layers {-}
+The following series of geographic data layers are the official TRPA Regional Plan GIS Data Layers and Maps.
+
+A.	Plan Area GIS Layers 
+The plan area GIS data layers relate to the Plan Area Statements, Regional Plan Map 1: Conceptual Regional Land Use, Community Plans, and Area Plans and indicate plan area boundaries, special area boundaries, community plan boundaries, redevelopment and master plan boundaries, hydrologic related areas boundaries, regional land use classification boundaries, special planning districts (includes Town Centers), Area Plan zoning district boundaries, and other relevant information.
+
+B.	Land Capability Overlay
+The land capability overlay maps indicate the boundaries of land capability districts, the boundaries of stream environment zones, the boundaries of shorezone tolerance districts, and other relevant information.
+
+C.	Prime Fish Habitat GIS Layer 
+The prime fish habitat GIS data layer identifies the location of spawning areas and habitat of game and forage fish in Lake Tahoe.  Spawning and habitat areas targeted for restoration are also identified.
+
+D.	Stream Habitat Quality GIS Layer
+The stream habitat quality GIS data layer indicates the existing and potential quality (excellent, good, or marginal) of instream fish habitat.
